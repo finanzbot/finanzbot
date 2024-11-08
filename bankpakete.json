@@ -1,0 +1,39 @@
+{
+"Typ": "Bankpaket",
+"Name": "Easy",
+"Paketpreis pro Monat": "CHF 5",
+"Währung": "CHF",
+"Konto": "1 Privatkonto",
+"E-Banking": "inklusive",
+"Zins": "0,0000 %",
+"Baloise Visa Debit": "1 Karte",
+"Bezüge an Bancomaten der Baloise Bank in CHF": "inklusive",
+"Bezüge an fremden Bancomaten in der Schweiz in CHF": "unbegrenzt",
+"Kreditkarte": "Keine"
+}
+{
+"Typ": "Bankpaket",
+"Name": "EasyPlus",
+"Paketpreis pro Monat": "CHF 15",
+"Währung": "CHF / EUR / USD",
+"Konto": "Mehrere Privantkonten",
+"E-Banking": "inklusive",
+"Zins": "0,0000 %",
+"Baloise Visa Debit": "Mehrere Karten (CHF)",
+"Bezüge an Bancomaten der Baloise Bank in CHF": "inklusive",
+"Bezüge an fremden Bancomaten in der Schweiz in CHF": "unbegrenzt",
+"Kreditkarte": "Mehrere Classic Kreditkarten inklusiv oder Zuschlag bei Nutzung von Gold Kreditkarten: CHF 5/Monat"
+}
+{
+"Typ": "Bankpaket",
+"Name": "YounGo",
+"Paketpreis pro Monat": "Kostenlos",
+"Währung": "CHF / EUR / USD",
+"Konto": "Mehrere Privantkonten",
+"E-Banking": "inklusive",
+"Zins": "0,0020 %",
+"Baloise Visa Debit": "Mehrere Karten (CHF)",
+"Bezüge an Bancomaten der Baloise Bank in CHF": "inklusive",
+"Bezüge an fremden Bancomaten in der Schweiz in CHF": "unbegrenzt",
+"Kreditkarte": "Kostenlos"
+}
